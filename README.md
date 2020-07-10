@@ -1,2 +1,2 @@
 # hello_world_public
-Just a practice
+repository for understanding github
